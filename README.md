@@ -3,5 +3,5 @@
 # Projects
 |||||
 |---:|---|---|---|
-| 1| **Wireline Channel Characterization** |([Repo]())| |
+| *1*| **Wireline Channel Characterization** |([Repo]())| |
 
